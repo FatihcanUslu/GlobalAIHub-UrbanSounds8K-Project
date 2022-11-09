@@ -13,12 +13,3 @@ Downloading the Data
 !rm urban8k.tgz
 
 
-Python Programlama, E-103, 16 kasım çarşamba, 17:00-18:00
-
-Algoritma Analizi ve Tasarımı, E-103,E-348, 18 kasım cuma, 19:00-20:00
-
-Biçimsel Diller ve Otomata Teorisi, E-103, E-348, 21 kasım pazartesi, 19:00-20:00
-
-Mikroişlemciler, E-103,E-348, 24 kasım perşembe, 17:00-18:00
-
-Makine Öğrenimine Giriş, G-Z54, 25 kasım cuma, 17:00-18:00
